@@ -1,0 +1,23 @@
+{
+  "name": "jcluo-react-raf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JcluoIvan/react-raf.git"
+  },
+  "keywords": [
+    "react",
+    "raf"
+  ],
+  "author": "JCLuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JcluoIvan/react-raf/issues"
+  },
+  "homepage": "https://github.com/JcluoIvan/react-raf#readme"
+}
