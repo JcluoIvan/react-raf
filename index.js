@@ -1,1 +1,1 @@
-export default require('./src/RAF.js');
+export default require('./src/RAF');
